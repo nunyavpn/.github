@@ -7,7 +7,9 @@
 **A VPN client that tells you plainly what it's doing.**<br>
 Safe, fast, reliable, secure and easy to use, and growing into one client for every VPN and proxy protocol.
 
-[**nunya-vpn.com**](https://nunya-vpn.com) · [Download](https://github.com/nunyavpn/nunya/releases) · [Report an issue](https://github.com/nunyavpn/nunya/issues)
+[![Website](https://img.shields.io/badge/website-nunya--vpn.com-4c6ef5?style=for-the-badge)](https://nunya-vpn.com)
+[![Download](https://img.shields.io/badge/download-releases-2f9e44?style=for-the-badge&logo=github)](https://github.com/nunyavpn/nunya/releases)
+[![Report an issue](https://img.shields.io/badge/report-an_issue-f59f00?style=for-the-badge&logo=github)](https://github.com/nunyavpn/nunya/issues)
 
 <br>
 
