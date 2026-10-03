@@ -1,11 +1,20 @@
 <div align="center">
 
+<img src="images/logo.png" width="112" height="112" alt="Nunya">
+
 # Nunya
 
 **A VPN client that tells you plainly what it's doing.**<br>
 Safe, fast, reliable, secure and easy to use, and growing into one client for every VPN and proxy protocol.
 
 [**nunya-vpn.com**](https://nunya-vpn.com) · [Download](https://github.com/nunyavpn/nunya/releases) · [Report an issue](https://github.com/nunyavpn/nunya/issues)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/main-dark.png">
+  <img src="images/main.png" width="880" alt="Nunya connected through a server in Helsinki: the server list, the route to the exit on the map, and the status card with live traffic">
+</picture>
 
 </div>
 
@@ -40,6 +49,21 @@ What works now:
 - **A live map** of you, your servers and your route, with each server placed where its traffic really exits.
 - **Quick Connect, usage history, bypass rules, an ad blocker and anti-tracker**, and a status shield in the menu bar.
 - **Sharing**: send a server as a link, a QR code, or a WireGuard config the official WireGuard apps can scan.
+
+<table>
+  <tr>
+    <td align="center"><img src="images/add-servers.png" width="260" alt="Adding a subscription and two servers by pasting links"></td>
+    <td align="center"><img src="images/popover.png" width="220" alt="The menu-bar popover: connection status, Quick Connect and protection toggles"></td>
+    <td align="center"><img src="images/usage.png" width="260" alt="Usage for a subscription over the last 30 days, by server"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Paste a link or a subscription</sub></td>
+    <td align="center"><sub>Connect from the menu bar</sub></td>
+    <td align="center"><sub>See what each server carried</sub></td>
+  </tr>
+</table>
+
+<sub>Screenshots show made-up example servers.</sub>
 
 ## Where it's going
 
